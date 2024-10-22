@@ -49,8 +49,8 @@ To install Blup:
 
 ## 🖼️ Screenshots
 
-![Blup Dashboard](https://www.blup.in/screenshot1.png)
-![Blup Templates](https://www.blup.in/screenshot2.png)
+![Blup Dashboard](https://framerusercontent.com/images/nBtF1n8AOclSRvE9cDyHQcemQzU.png)
+![Blup Templates](https://framerusercontent.com/images/4kLY9fyK8IJg08gkp4GrsOeBs.jpg?scale-down-to=1024)
 
 ## 🤝 Contributing
 
